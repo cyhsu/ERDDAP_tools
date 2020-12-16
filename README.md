@@ -13,6 +13,15 @@ If you would like to make a test run, I am appreciated it.
 If you meet any error or think there is something to update, please raise the issue with detailed information. I will work on it.
 
 
+* Check4ERDDAP.sh
+This is the bash script to check whether netCDF is okay to used in the ERDDAP server. (Before tarball)
+  
+* FromTar2ERDDAP.sh
+ This is the bash script to untar the files in the tarz directory and generate the ERDDAP XML file. (After tarball)
+
+
+  
+  
 Writen by  
    Chuan-Yuan Hsu, Ph.D., 2020-12-15
        Postdoc Data Scientist/Manager, Gulf of Mexico Coastal Ocean Observing System
